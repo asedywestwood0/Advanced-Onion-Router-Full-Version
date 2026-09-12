@@ -245,4 +245,4 @@ This repository serves as the official landing page for Advanced Onion Router. T
 **Get the most recent version of Advanced Onion Router today!**
 
 ---
-**Last updated:** 2026-09-11 23:46:39 UTC
+**Last updated:** 2026-09-12 02:35:31 UTC
